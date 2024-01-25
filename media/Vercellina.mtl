@@ -1,0 +1,242 @@
+# 3ds Max Wavefront OBJ Exporter v0.99 - (c)2007 guruware
+# File Created: 25.01.2024 16:48:21
+
+newmtl Empty_material
+	Kd 0.50 0.50 0.50
+	Ks 1.00 1.00 1.00
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.00
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.52
+	Ke 0.00 0.00 0.00
+	illum 2
+
+newmtl _auto_19
+	Kd 1.00 0.50 0.50
+	Ks 1.00 1.00 1.00
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.00
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.52
+	Ke 0.00 0.00 0.00
+	illum 2
+
+newmtl Translucent_Glass_Blue
+	Kd 0.90 0.91 0.93
+	Ks 1.00 1.00 1.00
+	Tr 0.50
+	d 0.50
+	Tf 1.00 1.00 1.00
+	Pr 0.00
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.52
+	Ke 0.00 0.00 0.00
+	illum 2
+
+newmtl Steel_Brushed_Stainless
+	Kd 0.50 0.50 0.50
+	Ks 1.00 1.00 1.00
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.00
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.52
+	Ke 0.00 0.00 0.00
+	illum 2
+
+newmtl Color_M00
+	Kd 1.00 1.00 1.00
+	Ks 1.00 1.00 1.00
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.00
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.52
+	Ke 0.00 0.00 0.00
+	illum 2
+
+newmtl 0049_Beige
+	Kd 0.96 0.96 0.86
+	Ks 1.00 1.00 1.00
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.00
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.52
+	Ke 0.00 0.00 0.00
+	illum 2
+
+newmtl Aluminum
+	Kd 0.50 0.50 0.50
+	Ks 1.00 1.00 1.00
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.00
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.52
+	Ke 0.00 0.00 0.00
+	illum 2
+
+newmtl 01___Default
+	Kd 0.85 0.07 0.07
+	Ks 1.00 1.00 1.00
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.00
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.52
+	Ke 0.00 0.00 0.00
+	illum 2
+
+newmtl Color_C07
+	Kd 0.60 0.30 0.00
+	Ks 1.00 1.00 1.00
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.00
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.52
+	Ke 0.00 0.00 0.00
+	illum 2
+
+newmtl Color_A01
+	Kd 1.00 0.80 0.80
+	Ks 1.00 1.00 1.00
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.00
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.52
+	Ke 0.00 0.00 0.00
+	illum 2
+
+newmtl Color_A02
+	Kd 1.00 0.60 0.60
+	Ks 1.00 1.00 1.00
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.00
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.52
+	Ke 0.00 0.00 0.00
+	illum 2
+
+newmtl Metal_Steel_Textured
+	Kd 0.50 0.50 0.50
+	Ks 1.00 1.00 1.00
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.00
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.52
+	Ke 0.00 0.00 0.00
+	illum 2
+
+newmtl Porcelain
+	Kd 1.00 0.98 0.98
+	Ks 1.00 1.00 1.00
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.00
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.52
+	Ke 0.00 0.00 0.00
+	illum 2
+
+newmtl wire_255255255
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 1.00 1.00 1.00
+	Kd 1.00 1.00 1.00
+	Ks 0.35 0.35 0.35
+
+newmtl Metal_Seamed
+	Kd 0.50 0.50 0.50
+	Ks 1.00 1.00 1.00
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.00
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.52
+	Ke 0.00 0.00 0.00
+	illum 2
+
+newmtl wire_000000000
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.00 0.00 0.00
+	Kd 0.00 0.00 0.00
+	Ks 0.35 0.35 0.35
+
+newmtl _6
+	Kd 0.50 0.50 0.50
+	Ks 1.00 1.00 1.00
+	Tr 0.00
+	d 1.00
+	Tf 1.00 1.00 1.00
+	Pr 0.00
+	Pm 0.00
+	Pc 0.00
+	Pcr 0.00
+	Ni 1.52
+	Ke 0.00 0.00 0.00
+	illum 2
+
+newmtl wire_128128128
+	Ns 32
+	d 1
+	Tr 0
+	Tf 1 1 1
+	illum 2
+	Ka 0.50 0.50 0.50
+	Kd 0.50 0.50 0.50
+	Ks 0.35 0.35 0.35
